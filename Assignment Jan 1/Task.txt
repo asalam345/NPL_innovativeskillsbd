@@ -1,0 +1,13 @@
+Assignment: The "Data Sanitizer & Upgrader"
+Scenario: You have a list of sensor readings. Some are valid numbers, but some are "Error" strings. You need to clean the list, modify the values, and calculate a result—all using a for i in range() loop.
+
+readings = [12.5, "Error", 18.2, 15.0, "Error", 22.1, 10.8]
+Task 1: The Cleaner (Search and Replace)
+Write a for loop using range() to find every instance of the string "Error". Replace it with the number 0.0.
+
+Task 2: The Multiplier (In-place Modification)
+After cleaning the list, use another for loop to increase every reading by 10% to account for a calibration offset.
+(Hint: readings[i] = readings[i] * 1.1)
+Task 3: The Filter (Selective Removal)
+The sensor cannot record values below 15.0. Write a loop to find any value lower than 15.0 and add those low values to a new list called low_quality_log.
+Extra Challenge: After adding them to the log, remove them from the original readings list.

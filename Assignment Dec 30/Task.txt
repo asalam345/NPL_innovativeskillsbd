@@ -1,0 +1,12 @@
+Make two codes. Each code will make a Grade system for a specific credit system. (Open and Fixed Credit)
+
+In your code, you should cover at least 5 department with all subjects in a department.
+
+So this will be flow
+
+- when you run the code, user will provide the department name.
+- after giving the department name, you take score input for (1 Class test, 1 mid term, 1 final term) for each course of the selected department
+- based on the provided score you will estimate the cgpa of the student.
+
+
+Dont use list, dictionary or any collection. solve the problem based on the covered topics.
