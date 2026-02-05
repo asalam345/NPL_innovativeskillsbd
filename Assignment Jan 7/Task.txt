@@ -1,0 +1,20 @@
+Nested loop, 2D list, function
+
+Task 1: The "Grade Scanner" (2D Lists & Functions)
+The Challenge: You have a 2D list where each inner list represents a student's scores in different subjects. Write a function check_failing(grades_grid) that prints "Student [Index] failed a subject!" if any of their scores are below 50.
+
+all_grades = [
+[88, 92, 70], # Student 0 
+ [45, 80, 77], # Student 1 (Has a 45!) 
+ [99, 100, 95] # Student 2
+]
+
+
+Task 2: The "Pixel Flasher" (Modifying 2D Lists)
+The Challenge: In computer graphics, a screen is a 2D grid of 0s (off) and 1s (on). Write a function called activate_row(screen, row_index) that takes the grid and a row number, then uses a single loop to change every pixel in that specific row to 1.
+
+monitor = [
+[0, 0, 0], 
+ [0, 0, 0], 
+[0, 0, 0]
+]
