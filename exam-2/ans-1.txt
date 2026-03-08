@@ -1,0 +1,202 @@
+cv1_clean:
+hr reallife messy cv dataset example for nlp
+ preprocessing practice
+
+subject
+application for data science  ml engineer role
+candidate name
+md shakil ahmed
+email
+shakilahmeddsgmailcom  shakilahmedoutlookcom
+phone
+
+location
+dhaka bangladesh
+profile summary
+data scientist with around  years exp exp experience in data analysis machine learning ml ml
+predictive modelling and ai solutions strong interest in python nlp computer vision vision data
+visualization etc etc looking for opportunity in ai  ml  data science field field
+technical skills
+programming python python python r
+libraries pandas numpy numpy scikit learn sklearn tensorflow keras
+data tools powerbi power bi tableau  excel excel
+other skills machine learning deep learning nlp natural language processing
+work experience
+data analyst  abc analytics ltd jan   present
+responsibilities
+ cleaning raw dataset dataset dataset
+ building ml model for customer churn prediction
+ feature engineering and data preprocessing
+ dashboard building using powerbi  excel
+previous experience
+intern  data science xyz tech solutions jun   dec
+worked on
+ sentiment analysis on product review review review
+ text classification using nlp
+projects
+ fake news detection using machine learning and nlp
+ customer segmentation using kmeans clustering clustering
+ image classification using cnn cnn cnn
+github githubcomshakilahmedds
+education
+bsc in computer science  engineering national university
+cgpa
+certifications
+machine learning by andrew ng coursera
+data science professional certificate
+additional information
+languages bangla english
+interest ai research research research kaggle competition
+signature
+thanks  regards
+md shakil ahmed
+sent from my iphone
+
+cv2_clean:
+curriculum vitae  rafi mehebub bhuiyan
+personal information
+name
+rafi mehebub bhuiyan
+mothers name
+razia nargis
+fathers name
+late monir hussain bhuiyan
+phone
+
+email
+rafimehebubgmailcom
+address
+ west shewrapara mirpur dhaka
+date of birth
+
+work experience
+office executive  telesales agent  digifea marketing agency  call centre
+client handler  cashier  bhuiyan electronics mobile shop outlet
+duration
+left job due to university and academic pressure
+shop owner dewan shaishb  verification
+about me
+experienced telesales professional with handson experience in bb and bc cold calling worked on
+solar panel janitorial employee benefits and casualty insurance campaigns skilled in lead
+qualification objection handling and appointment setting able to work independently follow scripts
+and consistently meet sales targets
+skills
+ fluent english communication bc level
+ basic crm knowledge
+ flexible and adaptive to situations
+ appointment setting
+ basic excel skills
+education
+exam
+year
+institution
+location
+gpacgpa
+psc
+
+baf shaheen college tejgaon
+dhaka
+
+ssc
+
+baf shaheen college tejgaon
+dhaka
+
+hsc
+
+dhaka commerce college
+dhaka
+
+bba ongoing
+currently nd year
+north south university
+dhaka
+
+
+cv3_clean:
+sm nuruzzaman nobel
+i have a goal of becoming a successful scientist
+smnuruzzamangmailcom phone  aparkerdhaka bangladesh
+githubsm nuruzzaman linkedinsm nuruzzaman
+ google scholar
+objective
+i am passionate about scientist and en
+joy solving complex problems i am cur
+rently looking for a position as a machine
+learning engineer where i can apply my
+skills in problemsolving data analysis
+and collaboration to contribute to the
+success of a dynamic development team
+skills
+c html css python numpy pan
+das mathplotlib seaborn plotly scikit
+learn tensorow pytorch gan com
+puter vision open ai llm transformer
+autoencoder mysql generative ai
+nlp aws digitaloceanhugging face
+achievementaward
+carerighi am expert in kaggle click
+carerighplaced got bronze medel  among
+ contestent in kaggle con
+test google  isolated sign lan
+guage recognition
+carerigh siver and  bronze medel in kag
+gle notebook
+carerigh gold and others medel in kaggle
+discussions
+carerighrunners up ieee cs bdc sym
+posium
+carerighplaced inicpc preliminary pro
+gramming contest  among
+bubt
+carerighplaced inbubt intrauniversity
+programming contest
+carerigha machine learning approach for vo
+cal fold segmentation and disorder
+classication based on ensemble
+method nature scientic reports
+award for amirlab
+competetive programming
+cubesolved  programming prob
+lems in dierent online program
+ming judges
+cubeparticipated  online program
+ming contestseducation
+cerificaebsc in computer science and engineering
+universitybubt aparkerdhaka bangladesh
+february   december  cgpa  out of
+experience
+machine learning engineer remote ai  ai solution service
+april   november  aparkermelbourne australia
+research assistant amirlab
+march   july  aparkerdhaka bangladesh
+supervisor dr m firoz mridha
+research assistant remote health services research lab
+jun   current aparkerqueensland australia
+supervisor dr mohammad ali moni phd cambridge
+reviewer
+nature scientic reports
+publications
+carerighdevelopment of a cuttingedge ensemble pipeline for rapid and accu
+rate diagnosis of plant leaf diseases sciencedirect articial intelli
+gence in agriculture if  first author
+paper
+carerigha machine learning approach for vocal fold segmentation and disorder
+classication based on ensemble method nature scientic reports
+if   first author  paper
+carerighsegxnet a novel image segmentation approach for contrail detec
+tion using deep learningplous one if first author
+paper
+carerighenhancing the eectiveness of date palm leaf health control automated
+dis ease detection and therapy optimization using a hybrid approach
+ieee access if  first author paper
+carerighresecaunet enhancement of gi tract segmentation using an im
+proved unet framework emerging science journal if  first
+author paper
+others
+i have published  conference papers and  journals
+projects
+english to bangla language translation remote paid japan
+covid data analysis and best vaccine prediction
+tumor classication and shap explanation
+googleisolated sign language recognition
